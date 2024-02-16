@@ -260,11 +260,16 @@ btnTransfer.addEventListener("click", function (e) {
   }
 });
 
+// Закрыть аккаунт
 btnClose.addEventListener("click", function (e) {
   e.preventDefault();
+  console.log(inputCloseUsername.value);
+  console.log(currentAccount.logIn);
+  console.log(inputCloseUsername.value);
+  console.log(currentAccount.pin);
   if (
     inputCloseUsername.value === currentAccount.logIn &&
-    Number(inputCloseUsername.value) === currentAccount.pin
+    Number(inputClosePin.value) === currentAccount.pin
   ) {
     const index = accounts.findIndex(
       (acc) => acc.logIn === currentAccount.logIn
