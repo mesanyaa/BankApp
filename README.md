@@ -8,10 +8,14 @@ id: db pin: 2222 <br />
 id: yb pin: 3333 <br />
 id: ss pin: 4444 <br />
 
-<img src="https://github.com/mesanyaa/BankApp/assets/115028083/4f0582d2-5fd6-41e6-8e6a-21fc36e22edf" align="center">
+<p align="center">
+  <img src="https://github.com/mesanyaa/BankApp/assets/115028083/4f0582d2-5fd6-41e6-8e6a-21fc36e22edf">
+</p>
 
 При входе в аккаунт открывается страница пользователя. 
 
-![image](https://github.com/mesanyaa/BankApp/assets/115028083/2e8b557b-30c4-4430-9cd0-8870f7da36d4)
+<p align="center">
+  <img src="https://github.com/mesanyaa/BankApp/assets/115028083/2e8b557b-30c4-4430-9cd0-8870f7da36d4">
+</p>
 
 Функционал приложения позволяет перевести деньги другогому клиенту банка, внести деньги, закрыть аккаунт и отфильтровать список операций. При переводе денег другому человеку информация об этом динамически обновляется в обоих аккаунтах. Сессия входа в аккаунт длится 10 минут, после чего страница закрывается и необходимо войти заново
