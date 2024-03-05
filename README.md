@@ -1,7 +1,16 @@
-This app was created to practice when i studied javaScript course <br />
-Data to test: <br />
+<h1 style="text-align: center">Приложение банка</h1>
+
+<h3>Хостинг через GitHUb pages: https://mesanyaa.github.io/BankApp/</h3>
+
+Данные для тестирования при входе: <br />
 id: ay pin: 1111 <br />
 id: db pin: 2222 <br />
 id: yb pin: 3333 <br />
 id: ss pin: 4444 <br />
-https://mesanyaa.github.io/BankApp/
+
+![image](https://github.com/mesanyaa/BankApp/assets/115028083/4f0582d2-5fd6-41e6-8e6a-21fc36e22edf)
+
+При входе в аккаунт открывается страница пользователя. Функционал приложения позволяет перевести деньги другогому клиенту банка, внести деньги, закрыть аккаунт и отфильтровать список операций. При переводе денег другому человеку информация об этом динамически обновляется в обоих аккаунтах. Сессия входа в аккаунт длится 10 минут, после чего страница закрывается и необходимо войти заново
+
+![image](https://github.com/mesanyaa/BankApp/assets/115028083/2e8b557b-30c4-4430-9cd0-8870f7da36d4)
+
